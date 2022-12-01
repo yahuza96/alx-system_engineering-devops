@@ -14,3 +14,4 @@ echo Write a script that sets the mode of the file hello to this:
 Directory Permissions Script
 Change Group
 Script to change owner and group
+101 Symbolic link permissions
