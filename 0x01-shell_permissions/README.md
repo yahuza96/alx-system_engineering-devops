@@ -10,3 +10,4 @@ James Bond
 echo Write a script that sets the mode of the file hello to this:
 
 10-Mirror Permissions
+11 Directories Permissions
