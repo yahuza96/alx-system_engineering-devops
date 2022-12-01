@@ -8,3 +8,5 @@ a script that adds execute permission to the owner and the group owner, and read
 7-Everybody
 James Bond
 echo Write a script that sets the mode of the file hello to this:
+
+10-Mirror Permissions
