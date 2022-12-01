@@ -13,3 +13,4 @@ echo Write a script that sets the mode of the file hello to this:
 11 Directories Permissions
 Directory Permissions Script
 Change Group
+Script to change owner and group
